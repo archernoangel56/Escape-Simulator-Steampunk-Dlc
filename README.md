@@ -195,4 +195,4 @@ This repository serves as the official landing page for Escape Simulator: Steamp
 **Get the most recent version of Escape Simulator: Steampunk DLC today!**
 
 ---
-**Last updated:** 2026-11-12 23:04:49 UTC
+**Last updated:** 2026-11-13 04:37:40 UTC
